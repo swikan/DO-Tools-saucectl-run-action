@@ -30,7 +30,7 @@
     "@octokit/action": "^7.0.0",
     "@octokit/auth-action": "^4.0.1",
     "@octokit/rest": "^20.1.1",
-    "semver": "^7.6.2"
+    "semver": "^7.7.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.4.0",
